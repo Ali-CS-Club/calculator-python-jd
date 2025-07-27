@@ -1,6 +1,6 @@
 # 🧮 Calculator Project – Python (JD)
 ---
-##👤 JD
+👤 JD
 ---
 This is my personal Python calculator project for the ALI CS Club.
 
